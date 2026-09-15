@@ -4,7 +4,7 @@ import numpy as np
 A_demand = np.array([500, 5000, 750])
 B_demand = np.array([1000, 1200, 1200])
 
-#Production rates
+#Production rates:
 A_rate = 0.75
 B_rate = 1
 
