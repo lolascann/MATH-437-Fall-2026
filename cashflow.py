@@ -1,15 +1,15 @@
 import numpy as np
 import itertools
 
-# Variables:
-# x1 = Project 1
-# x2 = Project 2
-# x3 = Project 3
-# x4 = Project 4
-# b1 = Bank after Year 1
-# b2 = Bank after Year 2
-# b3 = Bank after Year 3
-# b4 = Bank after Year 4
+#Variables:
+#x1 = Project 1
+#x2 = Project 2
+#x3 = Project 3
+#x4 = Project 4
+#b1 = Bank after Year 1
+#b2 = Bank after Year 2
+#b3 = Bank after Year 3
+#b4 = Bank after Year 4
 
 #Constraints:
 A = np.array([
