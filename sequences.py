@@ -29,4 +29,14 @@ for n in range(2, 20):
     l0 = l1
     l1 = ln
 
-    
+l0 = 2
+l1 = 1
+
+print(l0)
+print(l1)
+
+for n in range(2, 20):
+    ln = l1 + l0
+    print(ln)
+    l0 = l1
+    l1 = ln
